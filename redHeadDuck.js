@@ -5,11 +5,11 @@ class RedheadDuck extends Duck {
         super(display);
     }
     fly(){
-        console.log('Yo vuelo');
+        return('Yo vuelo');
     }
 
     quack(){
-        console.log('Yo digo Cuack');
+        return('Yo digo Cuack');
     }
 }
 

@@ -4,7 +4,7 @@ class RubberDuck extends Duck {
         super(display);
     }
     quack(){
-        console.log('Yo digo Cuack');
+        return('Yo digo Cuack');
     }
 
 }

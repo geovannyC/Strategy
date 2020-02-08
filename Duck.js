@@ -8,10 +8,6 @@ class Duck {
        return this._display
     }
 
-    swin(){
-        return console.log('Yo Nado');
-    }
-
 }
 
 module.exports = Duck;
